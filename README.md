@@ -1,2 +1,2 @@
-# API-project
+# RESTful API-project
 wiki mockup RESTful API
